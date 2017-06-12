@@ -12,6 +12,7 @@ You will need the following python resources for it to run:
   <li>os
   <li>re
 </ul>
+
 ### Installation
 Unzip the file and run entertainment_center.py in Idle.
 
@@ -27,6 +28,7 @@ This webpage will contain:
   <li>Movie descriptions</li>
   <li>CSS styling for the titles and descriptions</li>
 </ul>
+
 ### Editing the Project
 There are three Python files to edit in an editor.
 <ul>
@@ -34,6 +36,7 @@ There are three Python files to edit in an editor.
   <li>media.py</li>
   <li>fresh_tomatoes.py</li>
 </ul>
+
 ### Contents of Python files
 1. entertainment_center.py contains the data for:
 <ul>
@@ -55,6 +58,7 @@ There are three Python files to edit in an editor.
   <li>Script for webpage tiles</li>
   <li>Where content on the webpage will be placed</li>
 </ul>
+
 ## Author
 petergns (https://github.com/petergns)
 
