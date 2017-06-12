@@ -16,7 +16,9 @@ Unzip the file and run entertainment_center.py in Idle.
 
 ### Running the Project
 When you run the project it will generate a webpage called:
-  • Rotten Tomatoes
+<ul>
+<li>Rotten Tomatoes</li>
+</ul>
 This webpage will contain:
   • Movie images
   • Movie titles
