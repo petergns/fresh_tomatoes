@@ -7,7 +7,7 @@ Follow these instructions to set up the Website Project.
 ### Prerequisite Resources
 You will need the following Python resources for it to run:
 <ul>
-  <li>[Python 2.7](https://www.python.org/downloads/release/python-2713/)
+  <li>Python 2.7 (https://www.python.org/downloads/)
   <li>webbrowser
   <li>os
   <li>re
