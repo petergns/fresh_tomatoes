@@ -20,38 +20,42 @@ When you run the project it will generate a webpage called:
 <li>Rotten Tomatoes</li>
 </ul>
 This webpage will contain:
-  • Movie images
-  • Movie titles
-  • Links to YouTube Movie trailers
-  • Movie descriptions
-  • CSS styling for the titles and descriptions
-
+<ul>
+  <li>Movie titles</li>
+  <li>Links to YouTube Movie trailers</li>
+  <li>Movie descriptions</li>
+  <li>CSS styling for the titles and descriptions</li>
+</ul>
 ### Editing the Project
 There are three Python files to edit in an editor.
-  • entertainment_center.py
-  • media.py
-  • fresh_tomatoes.py
-
+<ul>
+  <li>entertainment_center.py</li>
+  <li>media.py</li>
+  <li>fresh_tomatoes.py</li>
+</ul>
 ### Contents of Python files
 1. entertainment_center.py contains the data for:
-  • Movie images
-  • Movie titles
-  • Links to YouTube Movie trailers
-  • Movie descriptions
-
+<ul>
+  <li>Movie images</li>
+  <li>Movie titles</li>
+  <li>Links to YouTube Movie trailers</li>
+  <li>Movie descriptions</li>
+</ul>
 2. media.py contents:
-  • CSS styling for the titles and descriptions
-  • Initializes the content of the other python files.
-
+<ul>
+  <li>CSS styling for the titles and descriptions</li>
+  <li>Initializes the content of the other python files</li>
+</ul>
 3. rotten_tomatoes_py contents:
-  • CSS styling for the webpage
-  • HTML for the webpage
-  • Script for running youtube trailers
-  • Script for webpage tiles
-  • Where content on the webpage will be placed
-
+<ul>
+  <li>CSS styling for the webpage</li>
+  <li>HTML for the webpage</li>
+  <li>Script for running youtube trailers</li>
+  <li>Script for webpage tiles</li>
+  <li>Where content on the webpage will be placed</li>
+</ul>
 ## Author
-petergns
+petergns (https://github.com/petergns)
 
 ## Acknowledgments
 Acknowledgments to Udacity for the resources that helped me develop this.
