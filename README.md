@@ -6,18 +6,19 @@ Follow these instructions to set up the Website Project.
 
 ### Prerequisite Resources
 You will need the following python resources for it to run:
-  • Python 2.7 (https://www.python.org/downloads/release/python-2713/)
-  • webbrowser
-  • os
-  • re
-
+<ul>
+  <li>Python 2.7 (https://www.python.org/downloads/release/python-2713/)
+  <li>webbrowser
+  <li>os
+  <li>re
+</ul>
 ### Installation
 Unzip the file and run entertainment_center.py in Idle.
 
 ### Running the Project
 When you run the project it will generate a webpage called:
 <ul>
-<li>Rotten Tomatoes</li>
+  <li>Rotten Tomatoes</li>
 </ul>
 This webpage will contain:
 <ul>
