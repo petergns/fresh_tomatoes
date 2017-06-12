@@ -38,6 +38,8 @@ There are three Python files to edit in an editor.
 </ul>
 
 ### Contents of Python files
+The above python files do the following:
+
 1. entertainment_center.py contains the data for:
 <ul>
   <li>Movie images</li>
