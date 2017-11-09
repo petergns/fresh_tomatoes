@@ -40,19 +40,19 @@ There are three Python files to edit in an editor.
 ### Contents of Python files
 The above python files do the following:
 
-1. entertainment_center.py contains the data for:
+A. entertainment_center.py contains the data for:
 <ul>
   <li>Movie images</li>
   <li>Movie titles</li>
   <li>Links to YouTube Movie trailers</li>
   <li>Movie descriptions</li>
 </ul>
-2. media.py contents:
+B. media.py contents:
 <ul>
   <li>CSS styling for the titles and descriptions</li>
   <li>Initializes the content of the other python files</li>
 </ul>
-3. rotten_tomatoes_py contents:
+C. rotten_tomatoes_py contents:
 <ul>
   <li>CSS styling for the webpage</li>
   <li>HTML for the webpage</li>
