@@ -61,6 +61,9 @@ C. rotten_tomatoes_py contents:
   <li>Where content on the webpage will be placed</li>
 </ul>
 
+### Movie Website when in Browser:
+![Image of Output](https://github.com/petergns/fresh_tomatoes/blob/master/freshtomatoes.png)
+
 ## Author
 [petergns](https://github.com/petergns)
 
