@@ -1,4 +1,4 @@
-# fresh_tomatoes
+# Fresh Tomatoes Movie Website
 Movie Website Project for Nanodegree.
 
 ## Set Up Instructions
