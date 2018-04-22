@@ -1,6 +1,8 @@
 # Fresh Tomatoes Movie Website
 Movie Website Project for Nanodegree.
 
+Partial live preview: https://petergns.github.io/fresh_tomatoes/
+
 ## Set Up Instructions
 Follow these instructions to set up the Website Project.
 
